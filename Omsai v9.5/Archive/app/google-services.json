@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "2214140893",
+    "firebase_url": "https://om-sai-95109-default-rtdb.firebaseio.com",
+    "project_id": "om-sai-95109",
+    "storage_bucket": "om-sai-95109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2214140893:android:c197d3528e4a5a52027434",
+        "android_client_info": {
+          "package_name": "com.omsai.omsai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2214140893-mrseeetnq3357pfmvm82lp727669cqfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP9qMVHb0zw3yhajegKHKUsJ69KHERkUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2214140893-mrseeetnq3357pfmvm82lp727669cqfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

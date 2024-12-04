@@ -1,0 +1,4 @@
+com.omsai.omsai.test.app-androidTest-0 D:\Webus Labs\OMSaie\app\build\generated\res\resValues\androidTest\debug
+com.omsai.omsai.test.app-mergeDebugAndroidTestResources-1 D:\Webus Labs\OMSaie\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.omsai.omsai.test.app-mergeDebugAndroidTestResources-2 D:\Webus Labs\OMSaie\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.omsai.omsai.test.app-debugAndroidTest-3 D:\Webus Labs\OMSaie\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

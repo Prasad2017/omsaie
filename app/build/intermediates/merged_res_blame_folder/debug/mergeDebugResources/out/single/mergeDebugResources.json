@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/drawable-nodpi_button_stop.xml.flat",
+        "source": "com.omsai.omsai.app-main-49:/drawable-nodpi/button_stop.xml"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/layout_activity_main2.xml.flat",
+        "source": "com.omsai.omsai.app-main-49:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/drawable-nodpi_button_start.xml.flat",
+        "source": "com.omsai.omsai.app-main-49:/drawable-nodpi/button_start.xml"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.omsai.omsai.app-main-49:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/drawable-mdpi_logo.jpg.flat",
+        "source": "com.omsai.omsai.app-main-49:/drawable-mdpi/logo.jpg"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.omsai.omsai.app-main-49:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.omsai.omsai.app-main-49:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.omsai.omsai.app-main-49:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.omsai.omsai.app-main-49:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.omsai.omsai.app-main-49:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.omsai.omsai.app-main-49:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.omsai.omsai.app-main-49:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.omsai.omsai.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.omsai.omsai.app-main-49:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.omsai.omsai.app-main-49:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/drawable-nodpi_notification_logo.png.flat",
+        "source": "com.omsai.omsai.app-main-49:/drawable-nodpi/notification_logo.png"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/layout_activity_detail_text.xml.flat",
+        "source": "com.omsai.omsai.app-main-49:/layout/activity_detail_text.xml"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.omsai.omsai.app-main-49:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.omsai.omsai.app-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/layout_list_item.xml.flat",
+        "source": "com.omsai.omsai.app-main-49:/layout/list_item.xml"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/layout_layout_add.xml.flat",
+        "source": "com.omsai.omsai.app-main-49:/layout/layout_add.xml"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.omsai.omsai.app-main-49:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.omsai.omsai.app-main-49:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.omsai.omsai.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/drawable-ldpi_ic_launcher.png.flat",
+        "source": "com.omsai.omsai.app-main-49:/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/drawable-nodpi_button_setup.xml.flat",
+        "source": "com.omsai.omsai.app-main-49:/drawable-nodpi/button_setup.xml"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.omsai.omsai.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/menu_menu.xml.flat",
+        "source": "com.omsai.omsai.app-main-49:/menu/menu.xml"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.omsai.omsai.app-main-49:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/xml_file_path.xml.flat",
+        "source": "com.omsai.omsai.app-main-49:/xml/file_path.xml"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/drawable-nodpi_whatsapp_logo.png.flat",
+        "source": "com.omsai.omsai.app-main-49:/drawable-nodpi/whatsapp_logo.png"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.omsai.omsai.app-main-49:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/layout_registration.xml.flat",
+        "source": "com.omsai.omsai.app-main-49:/layout/registration.xml"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/drawable-mdpi_logoauto.png.flat",
+        "source": "com.omsai.omsai.app-main-49:/drawable-mdpi/logoauto.png"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.omsai.omsai.app-main-49:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.omsai.omsai.app-debug-47:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.omsai.omsai.app-main-49:/mipmap-mdpi/ic_launcher_foreground.webp"
+    }
+]
