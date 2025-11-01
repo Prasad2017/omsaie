@@ -37,6 +37,8 @@ import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import java.text.SimpleDateFormat
 import java.util.Date
+import java.util.Locale
+import java.util.Locale.getDefault
 
 
 class EndlessService : Service() {
@@ -80,14 +82,14 @@ class EndlessService : Service() {
     @SuppressLint("ForegroundServiceType")
     override fun onCreate() {
         super.onCreate()
-        log("The service has been created".toUpperCase())
+        log("The service has been created".uppercase(getDefault()))
         val notification = createNotification()
         startForeground(1, notification)
     }
 
     override fun onDestroy() {
         super.onDestroy()
-        log("The service has been destroyed".toUpperCase())
+        log("The service has been destroyed".uppercase(getDefault()))
         Toast.makeText(this, "Service destroyed", Toast.LENGTH_SHORT).show()
     }
 

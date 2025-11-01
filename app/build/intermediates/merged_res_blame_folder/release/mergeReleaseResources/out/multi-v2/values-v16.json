@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.omsai.omsai.app-mergeReleaseResources-47:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\prasa\\.gradle\\caches\\9.2.0\\transforms\\c4b85b2e0fe52bd843b3fedfedb7db08\\workspace\\transformed\\appcompat-1.7.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

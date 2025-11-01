@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.omsai.omsai.app-mergeReleaseResources-48:/layout/registration.xml",
+        "source": "com.omsai.omsai.app-main-50:/layout/registration.xml"
+    },
+    {
+        "merged": "com.omsai.omsai.app-mergeReleaseResources-48:/layout/activity_detail_text.xml",
+        "source": "com.omsai.omsai.app-main-50:/layout/activity_detail_text.xml"
+    },
+    {
+        "merged": "com.omsai.omsai.app-mergeReleaseResources-48:/layout/list_item.xml",
+        "source": "com.omsai.omsai.app-main-50:/layout/list_item.xml"
+    },
+    {
+        "merged": "com.omsai.omsai.app-mergeReleaseResources-48:/layout/layout_add.xml",
+        "source": "com.omsai.omsai.app-main-50:/layout/layout_add.xml"
+    },
+    {
+        "merged": "com.omsai.omsai.app-mergeReleaseResources-48:/layout/activity_main2.xml",
+        "source": "com.omsai.omsai.app-main-50:/layout/activity_main2.xml"
+    }
+]

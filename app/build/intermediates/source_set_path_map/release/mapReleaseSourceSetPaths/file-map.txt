@@ -1,0 +1,53 @@
+com.omsai.omsai.app-jetified-emoji2-views-helper-1.3.0-0 C:\Users\prasa\.gradle\caches\9.2.0\transforms\169ae93f9ef50840726ce08f6e9a0142\workspace\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.omsai.omsai.app-jetified-lifecycle-process-2.9.4-1 C:\Users\prasa\.gradle\caches\9.2.0\transforms\1c69ff38119be62113f23302996be1b7\workspace\transformed\jetified-lifecycle-process-2.9.4\res
+com.omsai.omsai.app-fragment-1.5.4-2 C:\Users\prasa\.gradle\caches\9.2.0\transforms\228b95a378cfbff27fce38f35e9664ee\workspace\transformed\fragment-1.5.4\res
+com.omsai.omsai.app-constraintlayout-2.2.1-3 C:\Users\prasa\.gradle\caches\9.2.0\transforms\2780b7d8f78fa61148c62cd1f9d565ad\workspace\transformed\constraintlayout-2.2.1\res
+com.omsai.omsai.app-jetified-lifecycle-livedata-core-ktx-2.9.4-4 C:\Users\prasa\.gradle\caches\9.2.0\transforms\28458ed32a2fb51037d88f9eafd5deeb\workspace\transformed\jetified-lifecycle-livedata-core-ktx-2.9.4\res
+com.omsai.omsai.app-jetified-datastore-release-5 C:\Users\prasa\.gradle\caches\9.2.0\transforms\31cde610100938bc90031edef543ea32\workspace\transformed\jetified-datastore-release\res
+com.omsai.omsai.app-jetified-lifecycle-viewmodel-savedstate-release-6 C:\Users\prasa\.gradle\caches\9.2.0\transforms\37dd7d3a9ac4eee936d3eef2e1867c46\workspace\transformed\jetified-lifecycle-viewmodel-savedstate-release\res
+com.omsai.omsai.app-jetified-firebase-common-22.0.1-7 C:\Users\prasa\.gradle\caches\9.2.0\transforms\4138b4806b2e39b2de13c76673d3c1b5\workspace\transformed\jetified-firebase-common-22.0.1\res
+com.omsai.omsai.app-jetified-firebase-messaging-25.0.1-8 C:\Users\prasa\.gradle\caches\9.2.0\transforms\417cea7ea6c0008fc9f6042f9582295f\workspace\transformed\jetified-firebase-messaging-25.0.1\res
+com.omsai.omsai.app-jetified-annotation-experimental-1.5.0-9 C:\Users\prasa\.gradle\caches\9.2.0\transforms\4960457411af59393b1ac9ada2a88d62\workspace\transformed\jetified-annotation-experimental-1.5.0\res
+com.omsai.omsai.app-drawerlayout-1.1.1-10 C:\Users\prasa\.gradle\caches\9.2.0\transforms\4994245df5e74b6e0b00ab9699fff934\workspace\transformed\drawerlayout-1.1.1\res
+com.omsai.omsai.app-jetified-room-ktx-2.8.3-11 C:\Users\prasa\.gradle\caches\9.2.0\transforms\49c3fa950b87c60cd51616c6d6409031\workspace\transformed\jetified-room-ktx-2.8.3\res
+com.omsai.omsai.app-lifecycle-livedata-2.9.4-12 C:\Users\prasa\.gradle\caches\9.2.0\transforms\5075b5855944caea344cc1edb32eb069\workspace\transformed\lifecycle-livedata-2.9.4\res
+com.omsai.omsai.app-jetified-datastore-preferences-release-13 C:\Users\prasa\.gradle\caches\9.2.0\transforms\55e60c05af351821672b36e3d0ecf337\workspace\transformed\jetified-datastore-preferences-release\res
+com.omsai.omsai.app-cardview-1.0.0-14 C:\Users\prasa\.gradle\caches\9.2.0\transforms\5fa1e5679749f2a7a91a7ddbcef8883d\workspace\transformed\cardview-1.0.0\res
+com.omsai.omsai.app-jetified-profileinstaller-1.4.0-15 C:\Users\prasa\.gradle\caches\9.2.0\transforms\5fd4baaabbf65e9f452dbf3d43ddfd54\workspace\transformed\jetified-profileinstaller-1.4.0\res
+com.omsai.omsai.app-lifecycle-livedata-core-2.9.4-16 C:\Users\prasa\.gradle\caches\9.2.0\transforms\6a84f51bac285e50fecababbfdb7046c\workspace\transformed\lifecycle-livedata-core-2.9.4\res
+com.omsai.omsai.app-core-runtime-2.2.0-17 C:\Users\prasa\.gradle\caches\9.2.0\transforms\6ae2495b8f3b70e5cee4516fdecd64b4\workspace\transformed\core-runtime-2.2.0\res
+com.omsai.omsai.app-jetified-core-ktx-1.13.1-18 C:\Users\prasa\.gradle\caches\9.2.0\transforms\7183be8c09c77cba753841574750a37f\workspace\transformed\jetified-core-ktx-1.13.1\res
+com.omsai.omsai.app-jetified-dexter-6.2.3-19 C:\Users\prasa\.gradle\caches\9.2.0\transforms\755b8cb55d235de5778eaea6e97e620a\workspace\transformed\jetified-dexter-6.2.3\res
+com.omsai.omsai.app-jetified-lifecycle-service-2.9.4-20 C:\Users\prasa\.gradle\caches\9.2.0\transforms\814e545f2cf9b632e645b4c187b83f7b\workspace\transformed\jetified-lifecycle-service-2.9.4\res
+com.omsai.omsai.app-coordinatorlayout-1.1.0-21 C:\Users\prasa\.gradle\caches\9.2.0\transforms\892ec05aac5594bf53330d691aa9637e\workspace\transformed\coordinatorlayout-1.1.0\res
+com.omsai.omsai.app-core-1.13.1-22 C:\Users\prasa\.gradle\caches\9.2.0\transforms\90723eeebc54500681054036e355d3da\workspace\transformed\core-1.13.1\res
+com.omsai.omsai.app-localbroadcastmanager-1.1.0-23 C:\Users\prasa\.gradle\caches\9.2.0\transforms\9378731491cc40437755c80c4d3f85f4\workspace\transformed\localbroadcastmanager-1.1.0\res
+com.omsai.omsai.app-material-1.6.1-24 C:\Users\prasa\.gradle\caches\9.2.0\transforms\95c94dc9d55bfea0ad09e80704dbf997\workspace\transformed\material-1.6.1\res
+com.omsai.omsai.app-jetified-datastore-core-release-25 C:\Users\prasa\.gradle\caches\9.2.0\transforms\989b803becfcfeafe2fdc1aa932d50bb\workspace\transformed\jetified-datastore-core-release\res
+com.omsai.omsai.app-jetified-core-viewtree-1.0.0-26 C:\Users\prasa\.gradle\caches\9.2.0\transforms\a8533a5642e3466090ef8d67409080fb\workspace\transformed\jetified-core-viewtree-1.0.0\res
+com.omsai.omsai.app-jetified-activity-1.8.0-27 C:\Users\prasa\.gradle\caches\9.2.0\transforms\ab94291e092f2ba0e6c50c7f26d9c62a\workspace\transformed\jetified-activity-1.8.0\res
+com.omsai.omsai.app-jetified-emoji2-1.3.0-28 C:\Users\prasa\.gradle\caches\9.2.0\transforms\b202f3f3171177d38f41fd430dbcd8f2\workspace\transformed\jetified-emoji2-1.3.0\res
+com.omsai.omsai.app-jetified-viewpager2-1.0.0-29 C:\Users\prasa\.gradle\caches\9.2.0\transforms\b22ded9fc57874844c06552c5573ecca\workspace\transformed\jetified-viewpager2-1.0.0\res
+com.omsai.omsai.app-jetified-appcompat-resources-1.7.1-30 C:\Users\prasa\.gradle\caches\9.2.0\transforms\bb4e61bd1f610ae720285b6e0a31ab1d\workspace\transformed\jetified-appcompat-resources-1.7.1\res
+com.omsai.omsai.app-jetified-play-services-basement-18.3.0-31 C:\Users\prasa\.gradle\caches\9.2.0\transforms\bd6d3f60462fcddd196cd5634a8e46f0\workspace\transformed\jetified-play-services-basement-18.3.0\res
+com.omsai.omsai.app-appcompat-1.7.1-32 C:\Users\prasa\.gradle\caches\9.2.0\transforms\c4b85b2e0fe52bd843b3fedfedb7db08\workspace\transformed\appcompat-1.7.1\res
+com.omsai.omsai.app-jetified-datastore-preferences-core-release-33 C:\Users\prasa\.gradle\caches\9.2.0\transforms\d42b7da4a1f40d526ca6c7417fc62257\workspace\transformed\jetified-datastore-preferences-core-release\res
+com.omsai.omsai.app-jetified-imagezoom-1.5.0-34 C:\Users\prasa\.gradle\caches\9.2.0\transforms\d88bfa51e5a993aa803c3db7b312d5bc\workspace\transformed\jetified-imagezoom-1.5.0\res
+com.omsai.omsai.app-jetified-lifecycle-livedata-ktx-2.9.4-35 C:\Users\prasa\.gradle\caches\9.2.0\transforms\db921c3da7f7af6f507a15d2fd7c0608\workspace\transformed\jetified-lifecycle-livedata-ktx-2.9.4\res
+com.omsai.omsai.app-recyclerview-1.1.0-36 C:\Users\prasa\.gradle\caches\9.2.0\transforms\e120f398a620acd0caeb362b5f5cf023\workspace\transformed\recyclerview-1.1.0\res
+com.omsai.omsai.app-jetified-savedstate-release-37 C:\Users\prasa\.gradle\caches\9.2.0\transforms\e13e389857ec40cba915a25c4c845410\workspace\transformed\jetified-savedstate-release\res
+com.omsai.omsai.app-jetified-subsampling-scale-image-view-3.10.0-38 C:\Users\prasa\.gradle\caches\9.2.0\transforms\e16ee267d667b154647c3d9281a652f0\workspace\transformed\jetified-subsampling-scale-image-view-3.10.0\res
+com.omsai.omsai.app-transition-1.2.0-39 C:\Users\prasa\.gradle\caches\9.2.0\transforms\e3cca48a64257abce6c77b7bada4dade\workspace\transformed\transition-1.2.0\res
+com.omsai.omsai.app-jetified-play-services-base-18.1.0-40 C:\Users\prasa\.gradle\caches\9.2.0\transforms\e6d771f6669f0ad969633a160f02f6d0\workspace\transformed\jetified-play-services-base-18.1.0\res
+com.omsai.omsai.app-jetified-lifecycle-runtime-release-41 C:\Users\prasa\.gradle\caches\9.2.0\transforms\e89c237e514f947c2a80a3adfb51e40f\workspace\transformed\jetified-lifecycle-runtime-release\res
+com.omsai.omsai.app-jetified-startup-runtime-1.1.1-42 C:\Users\prasa\.gradle\caches\9.2.0\transforms\ed4c9840f54d8ceab33111870afa022a\workspace\transformed\jetified-startup-runtime-1.1.1\res
+com.omsai.omsai.app-jetified-lifecycle-viewmodel-release-43 C:\Users\prasa\.gradle\caches\9.2.0\transforms\fe2760c1ca62f1c38e621eb5caa352be\workspace\transformed\jetified-lifecycle-viewmodel-release\res
+com.omsai.omsai.app-pngs-44 D:\Webus Labs\OMSaie\app\build\generated\res\pngs\release
+com.omsai.omsai.app-res-45 D:\Webus Labs\OMSaie\app\build\generated\res\processReleaseGoogleServices
+com.omsai.omsai.app-resValues-46 D:\Webus Labs\OMSaie\app\build\generated\res\resValues\release
+com.omsai.omsai.app-updated_navigation_xml-47 D:\Webus Labs\OMSaie\app\build\generated\updated_navigation_xml\release
+com.omsai.omsai.app-packageReleaseResources-48 D:\Webus Labs\OMSaie\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.omsai.omsai.app-packageReleaseResources-49 D:\Webus Labs\OMSaie\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.omsai.omsai.app-release-50 D:\Webus Labs\OMSaie\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.omsai.omsai.app-main-51 D:\Webus Labs\OMSaie\app\src\main\res
+com.omsai.omsai.app-release-52 D:\Webus Labs\OMSaie\app\src\release\res

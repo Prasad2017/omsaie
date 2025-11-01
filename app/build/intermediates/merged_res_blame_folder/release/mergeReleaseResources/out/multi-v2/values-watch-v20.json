@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.omsai.omsai.app-mergeReleaseResources-47:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\prasa\\.gradle\\caches\\9.2.0\\transforms\\c4b85b2e0fe52bd843b3fedfedb7db08\\workspace\\transformed\\appcompat-1.7.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
